@@ -114,4 +114,3 @@ end do     !JS: loop over kT values (slowly cooling the system by lowering kT)
 
 end program isingmodel
 
-a
